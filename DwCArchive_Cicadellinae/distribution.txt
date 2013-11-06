@@ -1,0 +1,258 @@
+838	Nicaragua	
+1087	Panama	
+780	Mexico	
+779	Mexico	
+772	Mexico	
+778	Mexico	
+789	Mexico	
+1056	Nicaragua	
+798	Mexico	
+837	Nicaragua	
+802	Nicaragua	
+772	Nicaragua	
+840	Panama	
+782	Panama	
+948	Peru	
+782	Nicaragua	
+914	Mexico	
+1011	Mexico	
+1025	Mexico	
+1031	Mexico	
+1016	Mexico	
+978	Mexico	
+783	Mexico	
+915	Mexico	
+982	Panama	
+913	Mexico	
+912	Mexico	
+1024	Mexico	
+794	Mexico	
+802	Mexico	
+799	Mexico	
+938	Mexico	
+1001	Peru	
+986	Panama	
+753	Peru	
+1002	Peru	
+971	Peru	
+1089	Peru	
+768	Peru	
+1003	Peru	
+766	Peru	
+997	Peru	
+1000	Peru	
+989	Peru	
+969	Peru	
+960	Peru	
+1013	Canada	
+1048	Peru	
+1003	Paraguay	
+990	Panama	
+778	Panama	
+921	Panama	
+772	Panama	
+763	Panama	
+781	Peru	
+1058	Paraguay	
+911	Mexico	
+971	Paraguay	
+760	Paraguay	
+757	Paraguay	
+954	Paraguay	
+784	Paraguay	
+761	Peru	
+795	Paraguay	
+1071	Costa Rica	
+820	Mexico	
+837	Costa Rica	
+838	Costa Rica	
+978	Costa Rica	
+990	Costa Rica	
+763	Colombia	
+1069	Costa Rica	
+768	Colombia	
+1068	Costa Rica	
+802	Costa Rica	
+772	Costa Rica	
+782	Costa Rica	
+780	Cuba	
+757	Ecuador	
+1047	Costa Rica	
+982	Colombia	
+933	Canada	
+1036	Canada	
+842	Colombia	
+803	Colombia	
+802	Colombia	
+1070	Costa Rica	
+840	Colombia	
+770	Ecuador	
+986	Colombia	
+990	Colombia	
+991	Colombia	
+772	Colombia	
+1088	Colombia	
+1090	Colombia	
+800	Colombia	
+1003	Guyana	
+991	Guatemala	
+990	Guatemala	
+837	Guatemala	
+838	Guatemala	
+765	Guyana	
+768	Ecuador	
+982	Guyana	
+802	Guatemala	
+763	Guyana	
+1016	Honduras	
+772	Honduras	
+840	Honduras	
+836	Honduras	
+945	Peru	
+988	Guyana	
+1049	Ecuador	
+840	Mexico	
+841	Ecuador	
+918	Ecuador	
+934	Ecuador	
+960	Ecuador	
+1048	Ecuador	
+1016	Guatemala	
+1088	Ecuador	
+778	Guatemala	
+982	El Salvador	
+802	El Salvador	
+772	El Salvador	
+789	Guatemala	
+772	Guatemala	
+764	Ecuador	
+1051	Ecuador	
+1057	Brazil	
+996	Brazil	
+795	Brazil	
+792	Brazil	
+987	Brazil	
+1067	Brazil	
+946	Brazil	
+1085	Brazil	
+832	Brazil	
+1050	Brazil	
+1049	Brazil	
+1044	Brazil	
+1003	Brazil	
+1002	Brazil	
+950	Peru	
+784	Brazil	
+937	Brazil	
+1002	Bolivia	
+1048	Bolivia	
+1089	Bolivia	
+1090	Bolivia	
+927	Bolivia	
+982	Brazil	
+927	Brazil	
+949	Brazil	
+940	Brazil	
+944	Brazil	
+943	Brazil	
+945	Brazil	
+941	Brazil	
+834	Brazil	
+923	Brazil	
+654	Brazil	
+971	Brazil	
+759	Brazil	
+757	Brazil	
+753	Brazil	
+765	Brazil	
+761	Brazil	
+766	Brazil	
+762	Brazil	
+657	Brazil	
+653	Brazil	
+1018	Canada	
+650	French Guiana	
+982	French Guiana	
+1095	Costa Rica	
+656	Brazil	
+955	Brazil	
+986	Brazil	
+981	Brazil	
+967	Brazil	
+962	Brazil	
+959	Brazil	
+760	Brazil	
+956	Brazil	
+918	Bolivia	
+954	Brazil	
+953	Brazil	
+951	Brazil	
+999	Brazil	
+1090	Brazil	
+767	Brazil	
+958	Brazil	
+1017	U.S.A.	
+1001	Bolivia	
+1029	U.S.A.	
+1033	U.S.A.	
+1036	U.S.A.	
+1011	U.S.A.	
+1023	U.S.A.	
+1013	U.S.A.	
+1022	U.S.A.	
+789	U.S.A.	
+933	U.S.A.	
+1012	U.S.A.	
+912	U.S.A.	
+760	Uruguay	
+918	Venezuela	
+1028	U.S.A.	
+650	Trinidad and Tobago	
+944	Peru	
+918	Peru	
+991	Peru	
+761	Suriname	
+840	Suriname	
+1024	U.S.A.	
+655	Trinidad and Tobago	
+934	Venezuela	
+976	Trinidad and Tobago	
+1030	U.S.A.	
+1018	U.S.A.	
+1037	U.S.A.	
+1020	U.S.A.	
+1021	U.S.A.	
+757	Suriname	
+757	Argentina	
+959	Argentina	
+954	Argentina	
+943	Argentina	
+930	Argentina	
+926	Argentina	
+923	Venezuela	
+760	Argentina	
+969	Argentina	
+780	Belize	
+757	Bolivia	
+761	Bolivia	
+762	Bolivia	
+766	Bolivia	
+1096	Costa Rica	
+784	Argentina	
+655	Venezuela	
+969	Bolivia	
+976	Venezuela	
+802	Venezuela	
+990	Venezuela	
+982	Venezuela	
+801	Venezuela	
+971	Argentina	
+650	Venezuela	
+981	Argentina	
+768	Venezuela	
+757	French Guiana	
+761	French Guiana	
+766	French Guiana	
+977	French Guiana	
+927	Venezuela	
+763	Venezuela	

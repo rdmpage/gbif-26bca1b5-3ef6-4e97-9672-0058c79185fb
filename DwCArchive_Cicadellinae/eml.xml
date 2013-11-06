@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<eml:eml xmlns:eml='eml://ecoinformatics.org/eml-2.1.1'
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+  xmlns:dc='http://purl.org/dc/terms/'
+  xsi:schemaLocation='eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0/eml.xsd'
+  xml:lang='en'
+  packageId='' system='http://gbif.org' scope='system'>
+
+  <dataset>
+    <title xml:lang='en'>3i - Cicadellinae Database</title>
+
+    <creator>
+      <individualName>
+        <givenName>Dmitry</givenName>
+        <surName>Dmitriev</surName>
+      </individualName>
+      <organizationName>University of Illinois at Urbana-Champaign, Illinois Natural History Survey</organizationName>
+      <positionName>Insect Systematist</positionName>
+      <address>
+        <deliveryPoint>1816 S. Oak St.</deliveryPoint>
+        <city>Champaign</city>
+        <administrativeArea>Illinois</administrativeArea>
+        <postalCode>61820</postalCode>
+        <country>USA</country>
+      </address>
+      <phone>1-217-244-9578</phone>
+      <electronicMailAddress>proceps@mail.ru</electronicMailAddress>
+      <onlineUrl>http://ctap.inhs.uiuc.edu/dmitriev/</onlineUrl>
+    </creator>
+
+    <metadataProvider>
+      <individualName>
+        <givenName>Dmitry</givenName>
+        <surName>Dmitriev</surName>
+      </individualName>
+      <organizationName>University of Illinois at Urbana-Champaign, Illinois Natural History Survey</organizationName>
+      <positionName>Insect Systematist</positionName>
+      <address>
+        <deliveryPoint>1816 S. Oak St.</deliveryPoint>
+        <city>Champaign</city>
+        <administrativeArea>Illinois</administrativeArea>
+        <postalCode>61820</postalCode>
+        <country>USA</country>
+      </address>
+      <phone>1-217-244-9578</phone>
+      <electronicMailAddress>proceps@mail.ru</electronicMailAddress>
+      <onlineUrl>http://ctap.inhs.uiuc.edu/dmitriev/</onlineUrl>
+    </metadataProvider>
+
+    <associatedParty>
+      <individualName>
+        <givenName>Daniela</givenName>
+        <surName>Takiya</surName>
+      </individualName>
+      <organizationName>Universidade Federal do Rio de Janeiro</organizationName>
+      <positionName>Professor</positionName>
+      <address>
+        <deliveryPoint>Laboratorio de Entomologia, Departamento de Zoologia</deliveryPoint>
+        <city>Rio de Janeiro</city>
+        <administrativeArea>Rio de Janeiro</administrativeArea>
+        <postalCode>68044</postalCode>
+        <country>Brazil</country>
+      </address>
+      <phone>+55 21 2562-6371</phone>
+      <electronicMailAddress>takiya@gmail.com</electronicMailAddress>
+      <onlineUrl>http://ctap.inhs.uiuc.edu/takiya/</onlineUrl>
+      <role>Author</role>
+    </associatedParty>
+
+    <pubDate>2012-02-06</pubDate>
+    <language>en</language>
+    <abstract>
+      <para>World Cicadellinae database</para>
+    </abstract>
+    <additionalInfo>
+      <para>No</para>
+    </additionalInfo>
+    <intellectualRights>
+      <para>CC-BY</para>
+    </intellectualRights>
+    <distribution scope='document'>
+      <online>
+      <url function='information'>http://ctap.inhs.uiuc.edu/takiya/</url>
+      </online>
+    </distribution>
+
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>Geographic Coverage</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-123.595</westBoundingCoordinate>
+          <eastBoundingCoordinate>123.3814</eastBoundingCoordinate>
+          <northBoundingCoordinate>61.062576141</northBoundingCoordinate>
+          <southBoundingCoordinate>-36.9833333333333</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <taxonomicCoverage>
+        <generalTaxonomicCoverage>Taxonomic Coverage</generalTaxonomicCoverage>
+        <taxonomicClassification>
+          <taxonRankName>Subfamily</taxonRankName>
+          <taxonRankValue>Cicadellinae</taxonRankValue>
+        </taxonomicClassification>
+      </taxonomicCoverage>
+    </coverage>
+
+    <contact>
+      <individualName>
+        <givenName>Dmitry</givenName>
+        <surName>Dmitriev</surName>
+      </individualName>
+      <organizationName>University of Illinois at Urbana-Champaign, Illinois Natural History Survey</organizationName>
+      <positionName>Insect Systematist</positionName>
+      <address>
+        <deliveryPoint>1816 S. Oak St.</deliveryPoint>
+        <city>Champaign</city>
+        <administrativeArea>Illinois</administrativeArea>
+        <postalCode>61820</postalCode>
+        <country>USA</country>
+      </address>
+      <phone>1-217-244-9578</phone>
+      <electronicMailAddress>proceps@mail.ru</electronicMailAddress>
+      <onlineUrl>http://ctap.inhs.uiuc.edu/dmitriev/</onlineUrl>
+    </contact>
+
+  </dataset>
+
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2012-02-06T12:42:25</dateStamp>
+        <hierarchyLevel>dataset</hierarchyLevel>
+        <resourceLogoUrl>http://ctap.inhs.uiuc.edu/dmitriev/images/3i_logo.gif</resourceLogoUrl>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+
+</eml:eml>
