@@ -1,9 +1,9 @@
-933	Lateral-lined sharpshooter	
-1021	Occidental sharpshooter	
-1028	Yucca sharpshooter	
-818	Johnson grass sharpshooter	
-822	Lacertate sharpshooter	
-822	Smoketree sharpshooter	
-830	Glassy-winged sharpshooter	
-888	Black-winged sharpshooter	
-854	Broad-headed sharpshooter	
+933	Lateral-lined sharpshooter	EN
+1021	Occidental sharpshooter	EN
+1028	Yucca sharpshooter	EN
+818	Johnson grass sharpshooter	EN
+822	Lacertate sharpshooter	EN
+822	Smoketree sharpshooter	EN
+830	Glassy-winged sharpshooter	EN
+888	Black-winged sharpshooter	EN
+854	Broad-headed sharpshooter	EN
